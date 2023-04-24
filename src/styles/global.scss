@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+}
+
+.main-layout {
+  min-height: 100vh;
+  min-height: 100dvh;
+
+  background-color: $col-background;
+
+  display: grid;
+}
