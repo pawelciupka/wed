@@ -100,7 +100,7 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "https://pawelciupka.github.io/wed/"
+            "baseHref": "https://pawelciupka.github.io/super-tajny-adres-ktorego-nie-da-sie-zgadnac/slub-oli-i-pawla"
           }
         }
       }
